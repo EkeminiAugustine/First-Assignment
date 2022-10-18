@@ -10,7 +10,7 @@
 7. How to do a commit
 8. Github desktop vs Github CLI
 9. Conclusion
-10. The Grace
+10. The Grace.
     
 
 ## Introduction 
